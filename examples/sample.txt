@@ -1,0 +1,15 @@
+The quick brown fox jumps over the lazy dog.
+This sentence contains every letter of the alphabet, which makes it useful for testing fonts and keyboards.
+Writers have used it for decades because it is short and memorable.
+
+Good writing is clear writing.
+Short sentences help readers follow an idea from start to finish without getting lost.
+Long sentences can work too, but they demand more attention from the reader, and they risk burying the main point under clauses and commas.
+
+The quick brown fox jumps over the lazy dog.
+Repetition is a simple way to test whether a tool can spot duplicate lines.
+When the same line appears twice, a good dedupe tool keeps the first copy and removes the rest.
+
+Reading is a skill that improves with practice.
+The more you read, the faster you recognize common words and patterns.
+This is why simple books feel easy: they use familiar words in familiar orders.
